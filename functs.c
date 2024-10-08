@@ -11,8 +11,7 @@
 /*
 By:
 Cesar Rondo Rodriguez
-Student num: 22779089
-email: cesar.rondorodriguez@ucdconnect.ie
+email: c.rondoro12@gmail.com
 */
 //Function to read a message from another process via sockets
 void readServerMessage(int client_fd, char *buffer){
